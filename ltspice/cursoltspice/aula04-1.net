@@ -1,0 +1,10 @@
+* C:\users\oem\Desktop\eletronica\ltspice\cursoLtspice\aula04-1.asc
+B1 0 N001 I=0.1*(V(a)-V(b))
+V1 A 0 5
+R1 B A 10k
+R2 B 0 1k
+R3 B 0 1k
+R4 N001 0 200
+.tran 1
+.backanno
+.end
