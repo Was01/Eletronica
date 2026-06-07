@@ -1,0 +1,1 @@
+# Dicas de desenho esquemático
