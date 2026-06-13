@@ -1,1 +1,0 @@
-# Ponte retificadora com diodos
